@@ -1,0 +1,112 @@
+body
+{
+  background-color: #e6f9ff;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: red;
+  border-spacing: inherit;
+  border-width: 7px;
+  width: 5%;
+}
+
+.company-name
+{
+  font-family: cursive;
+  color: #00004d;
+  text-shadow: 2px 4px red;
+}
+.area
+{
+  font-family: cursive;
+  color:#ff0000;
+}
+.name
+{
+  font-family: cursive;
+  color: #004d4d;
+  text-shadow: 2px 3px white;
+}
+.fname
+{
+  font-family: cursive;
+  color: #00004d;
+  text-shadow: 2px 4px white;
+}
+.area1
+{
+  font-family: cursive;
+  color:#00004d;
+}
+.about
+{
+  font-size: 20px ;
+  font-weight: bold
+}
+.details1
+{
+  float: left;
+}
+.details2
+{
+  float: right;
+}
+.details3
+{
+  position: absolute;
+  left: 5px;
+  font-size: 17px;
+}
+
+.details4
+{
+  position: absolute;
+  right: 5px;
+  font-size: 18px;
+
+}
+textbox2
+{
+  margin 10px 20px;
+}
+a
+{
+  margin 10px 20px;
+}
+a:havor
+{
+  color: red;
+  font-size: 19px;
+}
+.middle-container
+{
+  margin: 100px 0;
+  background-color: white;
+}
+.check
+{
+  font-size: 19px;
+  color: blue;
+}
+.medi
+{
+  text-decoration: underline;
+}
+.piarom
+{
+  text-decoration: underline;
+}
+.powder
+{
+  text-decoration: underline;
+}
+.solid
+{
+  text-decoration: underline;
+}
+.bottom-container
+{
+  padding: 50px 0 20px;
+  background-color: grey;
+}
